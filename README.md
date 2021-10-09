@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Gervas3
+- 👀 I’m interested in practice with new challenges. My expirience relies on automotive and biomedical application.
+- 🌱 I’m currently learning DevOps skills
+- 💞️ I’m looking to collaborate on Autosar project
+- 📫 How to reach me on [Linkedin](https://www.linkedin.com/in/luigi-dilan-gervasio-b39983b6/) or [email](dilan.gervasio[at]gmail.com)
